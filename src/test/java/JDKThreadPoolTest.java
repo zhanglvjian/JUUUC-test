@@ -493,7 +493,8 @@ public class JDKThreadPoolTest {
    @Test
     public void test17(){
        System.out.println(1111);
-       System.out.println("hot fix 3333");
+       System.out.println("hot fix 3333,remote");
+      
    }
 }
 
